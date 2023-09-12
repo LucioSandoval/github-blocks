@@ -1,0 +1,42 @@
+.container{
+    background-color: gray;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+.contenedor1{
+    background-color: rgb(17, 168, 214);
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+}
+img{
+    height: 200px;
+}
+.contenedor2{
+    background-color: rgb(156, 91, 113);
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly; /* divide el ancho por igual */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.contenedor3{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+footer{
+    text-align: center;
+}
+a{
+    color: aqua;
+}
